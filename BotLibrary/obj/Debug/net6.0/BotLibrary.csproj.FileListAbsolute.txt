@@ -1,0 +1,12 @@
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/bin/Debug/net6.0/BotLibrary.deps.json
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/bin/Debug/net6.0/BotLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/bin/Debug/net6.0/BotLibrary.pdb
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.csproj.AssemblyReference.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.AssemblyInfoInputs.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.AssemblyInfo.cs
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.csproj.CoreCompileInputs.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/refint/BotLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/BotLibrary.pdb
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/BotLibrary/obj/Debug/net6.0/ref/BotLibrary.dll

@@ -1,0 +1,12 @@
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/bin/Debug/net6.0/ChargesLibrary.deps.json
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/bin/Debug/net6.0/ChargesLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/bin/Debug/net6.0/ChargesLibrary.pdb
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.csproj.AssemblyReference.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.AssemblyInfoInputs.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.AssemblyInfo.cs
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.csproj.CoreCompileInputs.cache
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/refint/ChargesLibrary.dll
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ChargesLibrary.pdb
+/Users/alexandra/Projects/Telegram_Bot_Ovsyannikova/ElectricChargesLib/obj/Debug/net6.0/ref/ChargesLibrary.dll
